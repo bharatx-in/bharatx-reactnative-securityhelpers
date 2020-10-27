@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { StyleSheet, View, Text, Platform } from 'react-native';
-import BharatxReactnativeSecurityhelpers from 'bharatx-reactnative-securityhelpers';
+import BharatxReactnativeSecurityhelpers from '@bharatx/bharatx-reactnative-securityhelpers';
 
 export default function App() {
   const [result, setResult] = React.useState<number | undefined>();
