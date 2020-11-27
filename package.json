@@ -1,6 +1,6 @@
 {
   "name": "@bharatx/bharatx-reactnative-securityhelpers",
-  "version": "1.0.1-release1",
+  "version": "1.0.3-release1",
   "description": "bharatx-reactnative-securityhelpers",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
